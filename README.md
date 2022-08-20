@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rasim hesenov
 - 👀 I’m front-end developer
-- 🌱 I’m I’m currently learning C#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me https://www.instagram.com/devbeyt/?hl=tr
 
 <!---
